@@ -1,2 +1,3 @@
-# SCA 
-# SCA
+# SEARCH COMPACT ARCHITECTURE FOR END-TO-END AUTOMATIC SPEECH RECOGNITION
+
+We provide our experiments detail of 
